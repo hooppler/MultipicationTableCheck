@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablicaMnozenjaApp", "TablicaMnozenjaApp\TablicaMnozenjaApp.csproj", "{6CEC5122-F06F-49B8-AA50-6D3658C04B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEC5122-F06F-49B8-AA50-6D3658C04B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEC5122-F06F-49B8-AA50-6D3658C04B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEC5122-F06F-49B8-AA50-6D3658C04B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEC5122-F06F-49B8-AA50-6D3658C04B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B1191A-A4DB-46F6-89E9-B09FFD378F2E}
+	EndGlobalSection
+EndGlobal
